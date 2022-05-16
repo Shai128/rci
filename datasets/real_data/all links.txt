@@ -1,0 +1,15 @@
+electricity_france - https://www.kaggle.com/ukveteran/prophet-python-jma-electricity-france
+
+tetuan_power - https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city 
+
+energy - https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
+
+Traffic - https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
+
+Netflix - https://www.kaggle.com/meetnagadia/netflix-stock-price-data-set-20022022
+
+HDFC - https://www.kaggle.com/meetnagadia/hdfc-stock-price-20002021?select=HDFCBANK.NS.csv
+
+Wind - https://www.kaggle.com/datasets/l3llff/wind-power
+
+Prices - https://github.com/mzaffran/AdaptiveConformalPredictionsTimeSeries/blob/main/data_prices/Prices_2016_2019_extract.csv
