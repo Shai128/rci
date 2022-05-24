@@ -18,7 +18,7 @@ class Hyperparameters:
     @calibration_method.setter
     def calibration_method(self, calibration_method):
         self._calibration_method = calibration_method
-        self.cal_split = ('ACI' in calibration_method and self.is_calibrated) or (self.cal_split and 'ACI' in calibration_method)
+        self.cal_split = ('ACI' in calibration_method and self.is_calibrated) or self.cal_split
 
     def __init__(self, is_calibrated=True, calibration_method='', lstm_hd=128, lstm_nl=1,
                  lstm_in_hd=[32, 64], lstm_out_hd=[32], do=0.1,
